@@ -1,2 +1,2 @@
 # PUNK-02
-SQL project of an Airport
+Test of classes in Java
