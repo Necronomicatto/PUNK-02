@@ -1,2 +1,2 @@
 # PUNK-02
-Test of classes in Java
+A couple of projects in Java made for college
